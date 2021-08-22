@@ -1,0 +1,8 @@
+! xterm defualts
+xterm*background: black
+xterm*foreground: green
+xterm.VT100*dynamicColors: on
+xterm*loginShell: true
+xterm.vt100.backarrowKey: false
+
+neofetch
