@@ -21,9 +21,7 @@ super + Escape
 # Firefox
 super + b
 	firefox
-# Sublime text
-super + n
-	subl
+
 
 #
 # Power controls
