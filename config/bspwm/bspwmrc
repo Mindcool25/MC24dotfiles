@@ -28,5 +28,5 @@ polybar example
 # Notifications
 dunst
 
-# Fixign pycharm by changing the wm name
+# Fixing pycharm by changing the wm name
 wmname "LG3D"
