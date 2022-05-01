@@ -22,6 +22,10 @@ super + Escape
 super + b
 	firefox
 
+# PcmanFM
+super + e
+	pcmanfm
+
 
 #
 # Power controls
