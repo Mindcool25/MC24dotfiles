@@ -28,5 +28,9 @@ polybar example
 # Notifications
 dunst
 
+# Fixing drawing tablet rotation, mainly an issue with my system.
+# Info for this is from https://wiki.ubuntu.com/X/InputCoordinateTransformation
+xinput set-prop "UGTABLET 4 inch PenTablet Pen (0)" --type=float "Coordinate Transformation Matrix" 0 1 0 -1 0 1 0 0 1
+
 # Fixing pycharm by changing the wm name
 wmname "LG3D"
