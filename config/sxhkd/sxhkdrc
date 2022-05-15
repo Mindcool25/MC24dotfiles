@@ -26,6 +26,9 @@ super + b
 super + e
 	pcmanfm
 
+# Screenshot
+Print
+	flameshot screen -c
 
 #
 # Power controls
